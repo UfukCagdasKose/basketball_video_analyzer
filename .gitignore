@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pt
+
+# Video outputs and training footage
+*.avi
+*.mp4
+*.mov
+
+# Pickle files
+*.pkl
